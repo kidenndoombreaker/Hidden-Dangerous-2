@@ -204,3 +204,6 @@ This repository serves as the official landing page for Hidden & Dangerous 2. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hidden & Dangerous 2 today!**
+
+---
+**Last updated:** 2026-11-07 23:27:06 UTC
